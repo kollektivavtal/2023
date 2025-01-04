@@ -69,6 +69,11 @@
 * https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/block/avtal2023/kollektivavtalen-2023-2025/teknikavtalet.pdf
 * https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/teknikarbetsgivarna-tag-teknikforetagen/
 
+## Teknikinstallationsavtalet
+
+* https://www.in.se/globalassets/dokument/arbetsgivarguiden/publik/kollektivavtal/teknikinstallationsavtalet-2023-2025.pdf
+* https://www.byggnads.se/medlem/kollektivavtal/kollektivavtalen/
+
 ## Tekniktjänsteavtalet
 
 * https://www.akavia.se/siteassets/03-rad-och-stod/kollektivavtal-privat-sektor/teknikarbetsgivarna/kollektivavtal-tekniktjanstearbetsgivarna-tekniktjansteavtalet-20230401-20250331.pdf
