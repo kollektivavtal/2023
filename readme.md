@@ -25,6 +25,12 @@
 * https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 * https://www.unionen.se/kollektivavtal/motorbranschens-arbetsgivareforbund
 
+## Plåt- och Ventilationsavtalet
+
+* https://www.pvforetagen.se/medlemsstod/arbetsratt--forhandling/kollektivavtal/plat--och-ventilationsavtalet/
+* https://www.byggnads.se/avtal/avtalsrorelsen-2023/ditt-avtal/plat--och-ventilationsavtalet/plat-och-ventilationsavtalet-i-korthet/
+* https://www.byggnads.se/siteassets/kollektivavtal/plat-och-ventilationsavtalet.pdf?ts=8dc797de59e5680#:~:text=Arbetstagarna%20skall%20ha%20minst%2036,utf%C3%B6ra%20arbetet%20n%C3%A4r%20behov%20uppkommer.
+
 ## Teknikavtalet
 
 * https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/block/avtal2023/kollektivavtalen-2023-2025/teknikavtalet.pdf
