@@ -5,6 +5,10 @@
 * https://www.finansforbundet.se/rad-stod/kollektivavtal/vart-kollektivavtal/
 * https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/bankinstituten/
 
+## Bussbranschavtalet
+
+* https://www.transportforetagen.se/for-dig-som-arbetsgivare/avtal-23/vara-avtal/bussbranschavtalet/
+
 ## Byggavtalet
 
 * https://www.byggnads.se/medlem/kollektivavtal/kollektivavtalen/
