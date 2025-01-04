@@ -25,6 +25,11 @@
 
 * https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/block/avtal2023/kollektivavtalen-2023-2025/sinfavtalet.pdf
 
+## Innovationsavtalet
+
+* https://www.unionen.se/kollektivavtal/innovationsforetagen
+* https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/innovationsforetagen/
+
 ## IT-Avtalet
 
 * https://www.unionen.se/kollektivavtal/it-avtalet-inom-techsverige
