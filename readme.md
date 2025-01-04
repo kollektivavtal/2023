@@ -30,6 +30,10 @@
 
 * https://sjobefalsforeningen.se/avtal-lonebilagor/farjebilagan
 
+## Glasmästeriavtalet
+
+* https://www.byggnads.se/medlem/kollektivavtal/kollektivavtalen/
+
 ## Industriavtalet
 
 * https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/block/avtal2023/kollektivavtalen-2023-2025/sinfavtalet.pdf
