@@ -15,6 +15,10 @@
 * https://www.byggnads.se/siteassets/aktuellt/2022/avtalsrorelsen/hangavtalsinformation/hangavtalsinformation---byggavtalet.pdf
 * https://www.byggnads.se/siteassets/kollektivavtal/byggavtalet-2023-2025.pdf
 
+## Entreprenadmaskinavtalet
+
+* https://www.byggnads.se/medlem/kollektivavtal/kollektivavtalen/
+
 ## Fastighetsavtalet
 
 * https://www.fastighets.se/Kollektivavtal/
