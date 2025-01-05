@@ -5,6 +5,13 @@
 * https://www.finansforbundet.se/rad-stod/kollektivavtal/vart-kollektivavtal/
 * https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/bankinstituten/
 
+## Bransch D - Företagshälsovård
+
+* https://www.vardforbundet.se/siteassets/rad-och-stod/kollektivavtal/foretagshalsovard-bransch-d.pdf
+* https://vision.se/globalassets/contracts/vardforetagarna/almega-vardforetagarna-foretagshalsovard.pdf
+* https://www.srat.se/rad-och-stod/kollektivavtal/vara-olika-avtal/anstalld-pa-foretagshalsovard/
+* https://www.naturvetarna.se/rad-och-stod/Kollektivavtal/avtal-privat-sektor/Vardforetagen-Bransch-D-Almega-Vardforetagarna/
+
 ## Bussbranschavtalet
 
 * https://www.transportforetagen.se/for-dig-som-arbetsgivare/avtal-23/vara-avtal/bussbranschavtalet/
