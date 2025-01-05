@@ -47,6 +47,11 @@
 * https://www.unionen.se/kollektivavtal/innovationsforetagen
 * https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/innovationsforetagen/
 
+## Installationsavtalet
+
+* https://www.sef.se/medlem/kollektivavtal/
+* https://www.sef.se/siteassets/medlem/kollektivavtal/vara-avtal/installationsavtalet-2023-2025.pdf
+
 ## IT-Avtalet
 
 * https://www.unionen.se/kollektivavtal/it-avtalet-inom-techsverige
