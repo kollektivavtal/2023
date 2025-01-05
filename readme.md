@@ -1,5 +1,11 @@
 # Kollektivavtalsarkivet 2023
 
+## Apoteksavtalet
+
+* https://www.sverigesfarmaceuter.se/globalassets/2-dokument/2-rad-och-stod/anstallning/kollektivavtal/apotek/svensk-handel/apoteksavtalet-2023-2025-a.pdf
+* https://www.unionen.se/kollektivavtal/svensk-handel-apoteksanstallda
+* https://www.sverigesfarmaceuter.se/rad-och-stod/anstallning2/kollektivavtal/kollektivavtal-apotek/kollektivavtal-svensk-handel/
+
 ## Bankavtalet
 
 * https://www.finansforbundet.se/rad-stod/kollektivavtal/vart-kollektivavtal/
