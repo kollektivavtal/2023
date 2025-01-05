@@ -52,6 +52,11 @@
 * https://www.unionen.se/kollektivavtal/it-avtalet-inom-techsverige
 * https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/techsverige_it/
 
+## Lackavtalet
+
+* https://www.byggnads.se/medlem/kollektivavtal-for-malare-och-lackerare/
+* https://www.byggnads.se/siteassets/kollektivavtal/lackavtalet-2023-2025.pdf
+
 ## Måleriavtalet
 
 * https://www.byggnads.se/medlem/kollektivavtal-for-malare-och-lackerare/
