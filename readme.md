@@ -57,6 +57,11 @@
 * https://www.unionen.se/kollektivavtal/it-avtalet-inom-techsverige
 * https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/techsverige_it/
 
+## Kraftverksavtalet
+
+* https://www.sef.se/medlem/kollektivavtal/
+* https://www.sef.se/siteassets/medlem/kollektivavtal/vara-avtal/kraftverksavtalet-2023-2025-webb.pdf
+
 ## Lackavtalet
 
 * https://www.byggnads.se/medlem/kollektivavtal-for-malare-och-lackerare/
