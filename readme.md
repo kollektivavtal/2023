@@ -84,6 +84,10 @@
 * https://www.byggnads.se/medlem/kollektivavtal-for-malare-och-lackerare/
 * https://www.byggnads.se/siteassets/kollektivavtal/lackavtalet-2023-2025.pdf
 
+## Lageravtalet
+
+* https://www.in.se/globalassets/dokument/arbetsgivarguiden/publik/kollektivavtal/lageravtalet-2023-2025.pdf
+
 ## Måleriavtalet
 
 * https://www.byggnads.se/medlem/kollektivavtal-for-malare-och-lackerare/
