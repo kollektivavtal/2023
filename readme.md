@@ -28,6 +28,11 @@
 * https://www.byggnads.se/siteassets/aktuellt/2022/avtalsrorelsen/hangavtalsinformation/hangavtalsinformation---byggavtalet.pdf
 * https://www.byggnads.se/siteassets/kollektivavtal/byggavtalet-2023-2025.pdf
 
+## Casinoavtalet
+
+* https://www.hrf.net/kollektivavtal/
+* https://www.hrf.net/app/uploads/2024/03/Visita-Casinoavtalet-2023-2025.pdf
+
 ## Entreprenadmaskinavtalet
 
 * https://www.byggnads.se/medlem/kollektivavtal/kollektivavtalen/
