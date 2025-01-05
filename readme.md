@@ -39,6 +39,11 @@
 
 * https://sjobefalsforeningen.se/avtal-lonebilagor/farjebilagan
 
+## Försäkringsbranchen
+
+* https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/forsakringsbranschen/
+* https://forena.webshop.pgm.nu/kategorier/pdf-filer/ftf-kfo-2.html
+
 ## Glasmästeriavtalet
 
 * https://www.byggnads.se/medlem/kollektivavtal/kollektivavtalen/
