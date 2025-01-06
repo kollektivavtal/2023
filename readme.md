@@ -37,6 +37,12 @@
 * https://www.hrf.net/kollektivavtal/
 * https://www.hrf.net/app/uploads/2024/03/Visita-Casinoavtalet-2023-2025.pdf
 
+## Djursjukvård / Djurparker tjänstemän
+
+* https://www.naturvetarna.se/rad-och-stod/Kollektivavtal/avtal-privat-sektor/djursjukvard-och-djurparker-Grona-arbetsgivarna/
+* https://www.unionen.se/kollektivavtal/grona-arbetsgivare-djursjukvard-och-djurparker
+* https://www.naturvetarna.se/globalassets/_avtalsarkiv/privata-avtal/grona-arbetsgivarna/djursjukvard/2023/djursjukvard-djurparker-tjansteman-1-juni-2023-31-maj-2025.pdf
+
 ## Energiavtalet
 
 * https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/energiforetagen/?&block=22147&mode=Index&resourcename=1.%20EFA%20Bransch%20avtal%20Energi%20-%20Avtal%202023%20-%202025.pdf
