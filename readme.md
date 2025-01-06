@@ -37,6 +37,11 @@
 * https://www.hrf.net/kollektivavtal/
 * https://www.hrf.net/app/uploads/2024/03/Visita-Casinoavtalet-2023-2025.pdf
 
+## Dagspressavtalet
+
+* https://www.sjf.se/system/files/2023-06/kollektivavtal_dagspress_6593_2304_medieforetagen_sjf_2023-2025.pdf
+* https://www.sjf.se/vara-kollektivavtal/dagspressavtal
+
 ## Djursjukvård / Djurparker tjänstemän
 
 * https://www.naturvetarna.se/rad-och-stod/Kollektivavtal/avtal-privat-sektor/djursjukvard-och-djurparker-Grona-arbetsgivarna/
