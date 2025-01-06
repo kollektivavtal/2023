@@ -203,6 +203,12 @@
 * https://www.naturvetarna.se/rad-och-stod/Kollektivavtal/avtal-privat-sektor/tekniktjansteavtalet/
 * https://www.teknikforetagen.se/nyhetscenter/nyheter/2023/tekniktjansteavtalet-2023-2025-finns-for-nedladdning/
 
+## Tidskriftsavtalet
+
+* https://www.sjf.se/vara-kollektivavtal/tidskriftsavtal
+* https://www.sjf.se/anstalld/anstallningstrygghet/anstallningsformer/tidskriftsavtalet
+* https://www.sjf.se/system/files/2023-06/kollektivavtal_tidskrifter_6565_2304_2023-2025_medieforetagen_sjf.pdf
+
 ## Tjänstemän inom civilsamhället
 
 * https://www.naturvetarna.se/globalassets/_avtalsarkiv/privata-avtal/fremia/tjansteman-civilsamhalle/2023/fremia-tjansteman-inom-civilsamhallet-allmanna-anstallningsvillkor-loner-mm-230501-250430.pdf
