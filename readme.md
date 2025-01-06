@@ -37,6 +37,12 @@
 * https://www.hrf.net/kollektivavtal/
 * https://www.hrf.net/app/uploads/2024/03/Visita-Casinoavtalet-2023-2025.pdf
 
+## Energiavtalet
+
+* https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/energiforetagen/?&block=22147&mode=Index&resourcename=1.%20EFA%20Bransch%20avtal%20Energi%20-%20Avtal%202023%20-%202025.pdf
+* https://www.unionen.se/kollektivavtal/energiforetagens-arbetsgivareforening
+* https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/energiforetagen/
+
 ## Entreprenadmaskinavtalet
 
 * https://www.byggnads.se/medlem/kollektivavtal/kollektivavtalen/
