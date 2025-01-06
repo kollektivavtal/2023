@@ -73,7 +73,7 @@
 ## Idrottsavtalet
 
 * https://www.akavia.se/siteassets/03-rad-och-stod/kollektivavtal-privat-sektor/arbetsgivaralliansen/arbetsgivaralliansen-branschkommitte-idrott-bransch--och-loneavtal-20231101-20251031.pdf
-* https://www.unionen.se/kollektivavtal/arbetsgivaralliansen-branschavtal-idrott
+* https://www.unionen.se/kollektivavtal/arbetsgivaralliansen-branschavtal-idrottG
 
 ## Industriavtalet
 
@@ -129,6 +129,11 @@
 
 * https://www.sjf.se/vara-kollektivavtal/public-service-avtal
 * https://www.sjf.se/system/files/2023-11/kollektivavtal-ps-journalistforbundet-6595-2304-medieforetagen-2023-2025.pdf
+
+## Stoppmöbelindustriavtalet
+
+* https://www.gsfacket.se/om-oss/vad-gor-gs/kollektivavtal/
+* https://www.gsfacket.se/globalassets/dokument/avtalsbocker/avtalsbocker-2023-2026/stoppmobelindustriavtalet-2023-04-01--2025-03-31.pdf
 
 ## Teknikavtalet
 
