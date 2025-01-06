@@ -67,6 +67,11 @@
 
 * https://sjobefalsforeningen.se/avtal-lonebilagor/farjebilagan
 
+## Förpackningsavtalet
+
+* https://www.grafiska.se/arbetsgivarstod/alla-amnen-a-o/kollektivavtal-och-lagar/har-hittar-du-kollektivavtalen-som-omfattar-de-grafiska-foretagen/
+* https://www.gsfacket.se/globalassets/dokument/avtalsbocker/avtalsbocker-2023-2026/forpackningsavtalet-2023-04-01--2025-03-31.pdf
+
 ## Försäkringsbranchen
 
 * https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/forsakringsbranschen/
