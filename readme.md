@@ -70,6 +70,11 @@
 
 * https://www.byggnads.se/medlem/kollektivavtal/kollektivavtalen/
 
+## Idrottsavtalet
+
+* https://www.akavia.se/siteassets/03-rad-och-stod/kollektivavtal-privat-sektor/arbetsgivaralliansen/arbetsgivaralliansen-branschkommitte-idrott-bransch--och-loneavtal-20231101-20251031.pdf
+* https://www.unionen.se/kollektivavtal/arbetsgivaralliansen-branschavtal-idrott
+
 ## Industriavtalet
 
 * https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/block/avtal2023/kollektivavtalen-2023-2025/sinfavtalet.pdf
