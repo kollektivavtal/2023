@@ -165,6 +165,12 @@
 
 * https://www.in.se/globalassets/dokument/arbetsgivarguiden/publik/kollektivavtal/lageravtalet-2023-2025.pdf
 
+## Livsmedelsavtalet
+
+* https://www.livs.se/arbetsplats-och-avtalsfragor/kollektivavtal/kollektivavtalen-som-pdf-filer/
+* https://www.livsmedelsforetagen.se/medlem/kollektivavtal/
+* https://www.livs.se/globalassets/livs.se/arbetsplats--och-avtalsfragor/avtal-2020/material-avtal-2020/livsmedelsavtalet-2023.pdf
+
 ## Massa- och Pappersavtalet
 
 * https://www.tn.se/arbetsmarknad/27477/nytt-avtal-for-massa-och-pappersindustrin/
