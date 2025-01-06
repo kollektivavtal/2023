@@ -85,6 +85,11 @@
 
 * https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/block/avtal2023/kollektivavtalen-2023-2025/sinfavtalet.pdf
 
+## Infomediaavtalet
+
+* https://www.grafiska.se/arbetsgivarstod/alla-amnen-a-o/kollektivavtal-och-lagar/har-hittar-du-kollektivavtalen-som-omfattar-de-grafiska-foretagen/
+* https://www.grafiska.se/arbetsgivarstod/alla-amnen-a-o/kollektivavtal-och-lagar/har-hittar-du-kollektivavtalen-som-omfattar-de-grafiska-foretagen/
+
 ## Innovationsavtalet
 
 * https://www.unionen.se/kollektivavtal/innovationsforetagen
