@@ -15,6 +15,13 @@
 * https://www.finansforbundet.se/rad-stod/kollektivavtal/vart-kollektivavtal/
 * https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/bankinstituten/
 
+## Bemanningsavtalet (Journalistförbundet)
+
+* https://www.sjf.se/system/files/2023-08/bemanningsavtalet_sjf_mf_2023-2025.pdf
+* https://www.sjf.se/vara-kollektivavtal
+* https://www.sjf.se/vara-kollektivavtal/bemanningsavtal
+* https://www.sjf.se/anstalld/bemanningsanstalld
+
 ## Bransch D - Företagshälsovård
 
 * https://www.vardforbundet.se/siteassets/rad-och-stod/kollektivavtal/foretagshalsovard-bransch-d.pdf
