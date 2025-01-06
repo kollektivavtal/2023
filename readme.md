@@ -86,6 +86,11 @@
 * https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/block/avtal2023/kollektivavtalen-2023-2025/gruvindustrin.pdf
 * https://www.unionen.se/kollektivavtal/industriarbetsgivarna-gruvindustrin
 
+## Gruventreprenadavtalet
+
+* http://www.maskinentreprenorerna.se/en/foretagarservice/kollektivavtal/kollektivavtal-for-ME-medlemmar/gruventreprenadavtalet/
+* https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/block/avtal2023/kollektivavtalen-2023-2025/gruventreprenadavtalet.pdf
+
 ## Idrottsavtalet
 
 * https://www.akavia.se/siteassets/03-rad-och-stod/kollektivavtal-privat-sektor/arbetsgivaralliansen/arbetsgivaralliansen-branschkommitte-idrott-bransch--och-loneavtal-20231101-20251031.pdf
