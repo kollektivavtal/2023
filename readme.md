@@ -97,6 +97,13 @@
 * http://www.maskinentreprenorerna.se/en/foretagarservice/kollektivavtal/kollektivavtal-for-ME-medlemmar/gruventreprenadavtalet/
 * https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/block/avtal2023/kollektivavtalen-2023-2025/gruventreprenadavtalet.pdf
 
+## Hushållningssällskap Husdjursföreningar Tjänstemän
+
+* https://www.naturvetarna.se/globalassets/_avtalsarkiv/privata-avtal/grona-arbetsgivarna/hushallningssallskap/2023/hushallningssallskap---husdjursforeningar-1-juni-2023--31-maj-2025.pdf
+* https://www.naturvetarna.se/rad-och-stod/Kollektivavtal/avtal-privat-sektor/Hushallningssallskap-och-Husdjursforeningar-Grona-arbetsgivarna/
+* https://www.svenskveterinartidning.se/nytt-avtal-ar-klart/
+* https://www.unionen.se/kollektivavtal/grona-arbetsgivare-hushallningssallskap-och-husdjursforeningar
+
 ## Idrottsavtalet
 
 * https://www.akavia.se/siteassets/03-rad-och-stod/kollektivavtal-privat-sektor/arbetsgivaralliansen/arbetsgivaralliansen-branschkommitte-idrott-bransch--och-loneavtal-20231101-20251031.pdf
