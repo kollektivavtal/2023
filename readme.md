@@ -1,5 +1,9 @@
 # Kollektivavtalsarkivet 2023
 
+## Almega Utbildning
+
+* https://www.sverigeslarare.se/siteassets/1.-rad-och-stod/kollektivavtal/almega/kollektivavtal-allmanna-anstallningsvillkor-utbildningsforetagen-2023-2025-si-unionen-.pdf
+
 ## Apoteksavtalet
 
 * https://www.sverigesfarmaceuter.se/globalassets/2-dokument/2-rad-och-stod/anstallning/kollektivavtal/apotek/svensk-handel/apoteksavtalet-2023-2025-a.pdf
