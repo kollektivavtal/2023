@@ -242,3 +242,9 @@
 * https://www.grafiska.se/arbetsgivarstod/alla-amnen-a-o/kollektivavtal-och-lagar/
 * https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/grafiska_foretagen/
 * https://www.unionen.se/kollektivavtal/grafiska-foretagens-forbund
+
+## Tobaksavtalet
+
+* https://www.livs.se/arbetsplats-och-avtalsfragor/kollektivavtal/kollektivavtalen-som-pdf-filer/
+* https://www.livsmedelsforetagen.se/medlem/kollektivavtal/
+* https://www.livs.se/globalassets/livs.se/arbetsplats--och-avtalsfragor/avtal-2020/material-avtal-2020/tobak__2023.pdf
