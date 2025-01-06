@@ -178,3 +178,9 @@
 * https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/tekniktjanstearbetsgivarna/
 * https://www.naturvetarna.se/rad-och-stod/Kollektivavtal/avtal-privat-sektor/tekniktjansteavtalet/
 * https://www.teknikforetagen.se/nyhetscenter/nyheter/2023/tekniktjansteavtalet-2023-2025-finns-for-nedladdning/
+
+## Tjänstemän inom civilsamhället
+
+* https://www.naturvetarna.se/globalassets/_avtalsarkiv/privata-avtal/fremia/tjansteman-civilsamhalle/2023/fremia-tjansteman-inom-civilsamhallet-allmanna-anstallningsvillkor-loner-mm-230501-250430.pdf
+* https://www.naturvetarna.se/rad-och-stod/Kollektivavtal/avtal-privat-sektor/tjansteman-civilsamhalle-fremia/
+* https://www.unionen.se/kollektivavtal/fremia-kollektivavtal-tjansteman-inom-civilsamhallet
