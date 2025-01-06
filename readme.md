@@ -184,3 +184,10 @@
 * https://www.naturvetarna.se/globalassets/_avtalsarkiv/privata-avtal/fremia/tjansteman-civilsamhalle/2023/fremia-tjansteman-inom-civilsamhallet-allmanna-anstallningsvillkor-loner-mm-230501-250430.pdf
 * https://www.naturvetarna.se/rad-och-stod/Kollektivavtal/avtal-privat-sektor/tjansteman-civilsamhalle-fremia/
 * https://www.unionen.se/kollektivavtal/fremia-kollektivavtal-tjansteman-inom-civilsamhallet
+
+## Tjänstemannaavtalet för grafisk industri
+
+* https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/grafiska_foretagen/?&block=22167&mode=Index&resourcename=1.%20Kollektivavtal%20(Tj%C3%A4nstemannaavtalet)%20grafisk%20industri%202023-2025.pdf
+* https://www.grafiska.se/arbetsgivarstod/alla-amnen-a-o/kollektivavtal-och-lagar/
+* https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/grafiska_foretagen/
+* https://www.unionen.se/kollektivavtal/grafiska-foretagens-forbund
