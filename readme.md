@@ -201,6 +201,11 @@
 * https://www.sjf.se/vara-kollektivavtal/public-service-avtal
 * https://www.sjf.se/system/files/2023-11/kollektivavtal-ps-journalistforbundet-6595-2304-medieforetagen-2023-2025.pdf
 
+## Spisbrödsavtalet
+
+* https://www.livs.se/arbetsplats-och-avtalsfragor/kollektivavtal/kollektivavtalen-som-pdf-filer/
+* https://www.livs.se/globalassets/livs.se/arbetsplats--och-avtalsfragor/avtal-2020/material-avtal-2020/spisbrod_2023.pdf
+
 ## Stoppmöbelindustriavtalet
 
 * https://www.gsfacket.se/om-oss/vad-gor-gs/kollektivavtal/
