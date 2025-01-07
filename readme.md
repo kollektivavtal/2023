@@ -249,6 +249,12 @@
 * https://www.livsmedelsforetagen.se/medlem/kollektivavtal/
 * https://www.livs.se/globalassets/livs.se/arbetsplats--och-avtalsfragor/avtal-2020/material-avtal-2020/tobak__2023.pdf
 
+## Tunnbrödsavtalet
+
+* https://sinf.se/nyheter/kollektivavtal-klart-mellan-livs-och-sinf-gallande-tunnbrodavtalet/
+* https://www.livs.se/arbetsplats-och-avtalsfragor/kollektivavtal/kollektivavtalen-som-pdf-filer
+* https://www.livs.se/globalassets/livs.se/arbetsplats--och-avtalsfragor/avtal-2020/material-avtal-2020/tunnbrod__2023.pdf
+
 ## Vin- och Spritindustriavtalet
 
 * https://www.livsmedelsforetagen.se/medlem/kollektivavtal/
