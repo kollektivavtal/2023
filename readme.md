@@ -248,3 +248,9 @@
 * https://www.livs.se/arbetsplats-och-avtalsfragor/kollektivavtal/kollektivavtalen-som-pdf-filer/
 * https://www.livsmedelsforetagen.se/medlem/kollektivavtal/
 * https://www.livs.se/globalassets/livs.se/arbetsplats--och-avtalsfragor/avtal-2020/material-avtal-2020/tobak__2023.pdf
+
+## Vin- och Spritindustriavtalet
+
+* https://www.livsmedelsforetagen.se/medlem/kollektivavtal/
+* https://www.livs.se/arbetsplats-och-avtalsfragor/kollektivavtal/kollektivavtalen-som-pdf-filer/
+* https://www.livsmedelsforetagen.se/app/uploads/2023/09/vin-och-sprit-2023.pdf
