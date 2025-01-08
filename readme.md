@@ -201,6 +201,7 @@
 * https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/block/avtal2023/kollektivavtalen-2023-2025/motorbranschavtalet.pdf
 * https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 * https://www.unionen.se/kollektivavtal/motorbranschens-arbetsgivareforbund
+* https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/transportforetagen/?&block=22176&mode=Index&resourcename=1.%20Kollektivavtal%20Motorbranschen%201%20maj%202023%20-%2030%20april%202025.pdf
 
 ## Musikavtalet
 
