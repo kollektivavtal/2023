@@ -312,3 +312,10 @@
 * https://www.livsmedelsforetagen.se/medlem/kollektivavtal/
 * https://www.livs.se/arbetsplats-och-avtalsfragor/kollektivavtal/kollektivavtalen-som-pdf-filer/
 * https://www.livsmedelsforetagen.se/app/uploads/2023/09/vin-och-sprit-2023.pdf
+
+## Väg- och Banavtalet
+
+* https://www.seko.se/avtal/sekos-avtalsomraden/vag-och-ban/aktuella-avtal/
+* https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2023/vag-och-ban/vag_och_banavtalet_fickavtal_2023-2025_tryck.pdf
+* https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2023/vag-och-ban/overenskommelse-vag-och-ban-avtalet-2023-2025.pdf
+* https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2023/vag-och-ban/lonebilaga-vba-2023.pdf
