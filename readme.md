@@ -189,6 +189,12 @@
 * https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 * https://www.unionen.se/kollektivavtal/motorbranschens-arbetsgivareforbund
 
+## Musikavtalet
+
+* https://www.svenskscenkonst.se/arbetsgivarguiden/kollektivavtal-och-andra-avtal/musikavtalet-2023-2025/
+* https://www.svenskscenkonst.se/media/7002/riksavtal-musik-2023-2025-ver-240613.pdf
+* https://www.svenskscenkonst.se/media/6426/musikavtalet-loenerevision-till-webb-2023.pdf
+
 ## Måleriavtalet
 
 * https://www.byggnads.se/medlem/kollektivavtal-for-malare-och-lackerare/
