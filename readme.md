@@ -78,6 +78,12 @@
 * https://www.sjf.se/vara-kollektivavtal/etermedieavtal
 * https://www.sjf.se/system/files/2023-06/etermedia_2023_-_2025.pdf
 
+## Europaavtalet
+
+* https://sjobefalsforeningen.se/avtal-lonebilagor/europaavtal
+* https://sjobefalsforeningen.se/sites/default/files/2023-05/avtalsmall-fartygsbefal.pdf
+* https://sjobefalsforeningen.se/sites/default/files/2023-05/avtalsmall-maskinbefal.pdf
+
 ## F-avtalet
 
 * https://fastigo.se/kollektivavtal/
