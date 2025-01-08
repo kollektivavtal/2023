@@ -221,6 +221,15 @@
 * https://www.gsfacket.se/om-oss/vad-gor-gs/kollektivavtal/
 * https://www.gsfacket.se/globalassets/dokument/avtalsbocker/avtalsbocker-2023-2026/stoppmobelindustriavtalet-2023-04-01--2025-03-31.pdf
 
+## Storsjöavtalet
+
+* https://sjobefalsforeningen.se/avtal-lonebilagor/storsjoavtalet
+* https://sjobefalsforeningen.se/sites/default/files/2023-05/2023-avtal-befalhavare-.pdf
+* https://sjobefalsforeningen.se/sites/default/files/2023-05/2023-befalhavare-lon-och-ersattning.pdf
+* https://sjobefalsforeningen.se/sites/default/files/2023-05/2023-avtal-styrman-telegrafist.pdf
+* https://sjobefalsforeningen.se/sites/default/files/2023-05/avtal-maskinbefal-2023.pdf
+* https://sjobefalsforeningen.se/sites/default/files/2023-05/2023-avtal-intendenturbefal.pdf
+
 ## Svenska Kyrkans Avtal
 
 * https://akademssr.se/rad-och-stod/kollektivavtal/kollektivavtal-i-privat-sektor-och-civilsamhallet/svenska-kyrkan
