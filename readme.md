@@ -22,6 +22,13 @@
 * https://www.sjf.se/vara-kollektivavtal/bemanningsavtal
 * https://www.sjf.se/anstalld/bemanningsanstalld
 
+## Bogseravtalen
+
+* https://sjobefalsforeningen.se/avtal-lonebilagor/bogseravtalen
+* https://sjobefalsforeningen.se/sites/default/files/2023-04/hmnbog-nautiskt-befal.pdf
+* https://sjobefalsforeningen.se/sites/default/files/2023-04/prmbog.pdf
+* https://sjobefalsforeningen.se/sites/default/files/2023-04/hmnbog-maskinbefal.pdf
+
 ## Bransch D - Företagshälsovård
 
 * https://www.vardforbundet.se/siteassets/rad-och-stod/kollektivavtal/foretagshalsovard-bransch-d.pdf
