@@ -221,6 +221,11 @@
 * https://www.gsfacket.se/om-oss/vad-gor-gs/kollektivavtal/
 * https://www.gsfacket.se/globalassets/dokument/avtalsbocker/avtalsbocker-2023-2026/stoppmobelindustriavtalet-2023-04-01--2025-03-31.pdf
 
+## Svenska Kyrkans Avtal
+
+* https://akademssr.se/rad-och-stod/kollektivavtal/kollektivavtal-i-privat-sektor-och-civilsamhallet/svenska-kyrkan
+* https://akademssr.se/sites/default/files/files/Svenska_kyrkans_avtal_2023%20AB-1_0.pdf
+
 ## Teknikavtalet
 
 * https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/block/avtal2023/kollektivavtalen-2023-2025/teknikavtalet.pdf
