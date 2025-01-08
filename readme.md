@@ -211,6 +211,15 @@
 * https://www.sjf.se/vara-kollektivavtal/public-service-avtal
 * https://www.sjf.se/system/files/2023-11/kollektivavtal-ps-journalistforbundet-6595-2304-medieforetagen-2023-2025.pdf
 
+## Skärgårdsavtalen
+
+* https://sjobefalsforeningen.se/avtal-lonebilagor/skargardsavtalen
+* https://sjobefalsforeningen.se/sites/default/files/2023-05/kollektivavtal-stromma-uto-mfl-2023-2024-tjf-sbf.pdf
+* https://sjobefalsforeningen.se/sites/default/files/2023-04/lonebilaga-stromma.pdf
+* https://sjobefalsforeningen.se/sites/default/files/2023-05/kollektivavtal-styrso-koster-karingso-2023-2024-tjf-sbf.pdf
+* https://sjobefalsforeningen.se/sites/default/files/2023-04/lonebilaga-styrso.pdf
+* https://sjobefalsforeningen.se/sites/default/files/2023-09/svenskt-naringsliv-ptk-2022-06-22-forhandlingsprotokoll-huvudavtal-trygghet-omstallning-anstallningsskydd.pdf
+
 ## Spisbrödsavtalet
 
 * https://www.livs.se/arbetsplats-och-avtalsfragor/kollektivavtal/kollektivavtalen-som-pdf-filer/
