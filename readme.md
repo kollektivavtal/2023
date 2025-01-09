@@ -132,6 +132,11 @@
 * http://www.maskinentreprenorerna.se/en/foretagarservice/kollektivavtal/kollektivavtal-for-ME-medlemmar/gruventreprenadavtalet/
 * https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/block/avtal2023/kollektivavtalen-2023-2025/gruventreprenadavtalet.pdf
 
+## Göta Kanal
+
+* https://www.seko.se/avtal/sekos-avtalsomraden/ovriga-avtal/kanalbolagen/aktuella-avtal/
+* https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2023/kanalbolagen/snabbifo-nya-loner-gota-kanal-2023-2025.pdf
+
 ## Hushållningssällskap Husdjursföreningar Tjänstemän
 
 * https://www.naturvetarna.se/globalassets/_avtalsarkiv/privata-avtal/grona-arbetsgivarna/hushallningssallskap/2023/hushallningssallskap---husdjursforeningar-1-juni-2023--31-maj-2025.pdf
