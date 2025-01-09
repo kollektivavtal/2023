@@ -56,6 +56,11 @@
 * https://www.sjf.se/system/files/2023-06/kollektivavtal_dagspress_6593_2304_medieforetagen_sjf_2023-2025.pdf
 * https://www.sjf.se/vara-kollektivavtal/dagspressavtal
 
+## Dalslands Kanal
+
+* https://www.seko.se/avtal/sekos-avtalsomraden/ovriga-avtal/kanalbolagen/aktuella-avtal/
+* https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2023/kanalbolagen/snabbinfo-nya-loner-dalslands-kanal-2023-2025.pdf
+
 ## Djursjukvård / Djurparker tjänstemän
 
 * https://www.naturvetarna.se/rad-och-stod/Kollektivavtal/avtal-privat-sektor/djursjukvard-och-djurparker-Grona-arbetsgivarna/
