@@ -22,6 +22,13 @@
 * https://www.sjf.se/vara-kollektivavtal/bemanningsavtal
 * https://www.sjf.se/anstalld/bemanningsanstalld
 
+## Bemanningsavtalet (LO)
+
+* https://www.lo.se/start/material/bemanningsavtalet_2023_2025
+* https://www.lo.se/home/lo/res.nsf/vRes/lo_1574675263741_bemanningsavtalet_2023_05_01_2025_04_30_pdf/$File/Bemanningsavtalet_2023-05-01%E2%80%932025-04-30.pdf
+* https://www.seko.se/avtal/sekos-avtalsomraden/ovriga-avtal/bemanning/aktuella-avtal/
+* https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2023/bemanning/bemanningsavtalet-2023-05-2025-04-30.pdf
+
 ## Bogseravtalen
 
 * https://sjobefalsforeningen.se/avtal-lonebilagor/bogseravtalen
