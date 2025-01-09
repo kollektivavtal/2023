@@ -188,6 +188,13 @@
 * https://www.livsmedelsforetagen.se/medlem/kollektivavtal/
 * https://www.livs.se/globalassets/livs.se/arbetsplats--och-avtalsfragor/avtal-2020/material-avtal-2020/livsmedelsavtalet-2023.pdf
 
+## Maskinföraravtalet
+
+* https://www.seko.se/avtal/sekos-avtalsomraden/vag-och-ban/aktuella-avtal/
+* https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2024/me/maskinforaravtalet-mfa-2023-2025.pdf
+* https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2023/me/forhandlingsprotokoll_seko_me_avtal2023.pdf
+* https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2024/me/lonerevision-maskinforaravtalet_me_senaste_2023-2024.pdf
+
 ## Massa- och Pappersavtalet
 
 * https://www.tn.se/arbetsmarknad/27477/nytt-avtal-for-massa-och-pappersindustrin/
