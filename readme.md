@@ -202,6 +202,7 @@
 ## Larm och säkerhetsteknik.
 
 * https://www.seko.se/avtal/sekos-avtalsomraden/ovriga-avtal/larm-sakerhetsteknik/aktuella-avtal/
+* https://www.seko.se/avtal/sekos-avtalsomraden/telekom/aktuella-avtal/
 * https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2023/larm--och-sakerhetsteknik/larm-och-sakerhetsteknikavtalet-2023-2025.pdf
 * https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2023/larm--och-sakerhetsteknik/forhandlingsprotokoll-larm--och-sakerhetsteknikavtalet-2023.pdf?
 
