@@ -68,8 +68,10 @@
 * https://www.seko.se/avtal/sekos-avtalsomraden/ovriga-avtal/kanalbolagen/aktuella-avtal/
 * https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2023/kanalbolagen/snabbinfo-nya-loner-dalslands-kanal-2023-2025.pdf
 
-## Djursjukvård / Djurparker tjänstemän
+## Djurvård
 
+* https://www.seko.se/avtal/sekos-avtalsomraden/djurvard/
+* https://www.seko.se/siteassets/pdf-seko.se/branscher/djurvard/djursjukvard-2023-2025.pdf
 * https://www.naturvetarna.se/rad-och-stod/Kollektivavtal/avtal-privat-sektor/djursjukvard-och-djurparker-Grona-arbetsgivarna/
 * https://www.unionen.se/kollektivavtal/grona-arbetsgivare-djursjukvard-och-djurparker
 * https://www.naturvetarna.se/globalassets/_avtalsarkiv/privata-avtal/grona-arbetsgivarna/djursjukvard/2023/djursjukvard-djurparker-tjansteman-1-juni-2023-31-maj-2025.pdf
