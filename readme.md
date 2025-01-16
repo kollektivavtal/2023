@@ -115,6 +115,9 @@
 ## Fastighetsavtalet
 
 * https://www.fastighets.se/Kollektivavtal/
+
+## Fastigheter Tjänstemannaavtal
+
 * https://www.unionen.se/kollektivavtal/almega-tjansteforbunden-fastighetsarbetsgivarna
 * https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/fastigheter/\?\&block\=22159\&mode\=Index\&resourcename\=1.%20Kollektivavtal%20Fastigheter%20Tj%C3%A4nstemannaavtal%201%20juni%202023%20-%2031%20maj%202025.pdf
 
