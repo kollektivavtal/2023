@@ -107,10 +107,18 @@
 * https://sjobefalsforeningen.se/sites/default/files/2023-05/avtalsmall-fartygsbefal.pdf
 * https://sjobefalsforeningen.se/sites/default/files/2023-05/avtalsmall-maskinbefal.pdf
 
-## F-avtalet
+## Fastigo F-avtalet
 
 * https://fastigo.se/kollektivavtal/
 * https://www.fastighets.se/Kollektivavtal/vara-kollektivavtal/fastigo/
+
+## Fastigo I-avtalet
+
+* https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/fastigo/
+
+## Fastigo K-avtalet
+
+* https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/fastigo/
 
 ## Fastighetsavtalet
 
