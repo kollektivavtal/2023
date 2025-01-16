@@ -133,7 +133,7 @@
 
 * https://www.hrf.net/app/uploads/2024/03/Fremia-Folkets-Hus-och-Parker-2023-2025.pdf
 
-## Folksamsavtalet
+## Folksamgruppen
 
 * https://forena.webshop.pgm.nu/kategorier/pdf-filer/ftf-kfo-3.html
 * https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/fremia-folksamgruppen/
