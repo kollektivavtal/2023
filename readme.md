@@ -329,6 +329,10 @@
 * https://www.naturvetarna.se/rad-och-stod/Kollektivavtal/avtal-privat-sektor/tjansteman-civilsamhalle-fremia/
 * https://www.unionen.se/kollektivavtal/fremia-kollektivavtal-tjansteman-inom-civilsamhallet
 
+## Tjänstemän basindustrin
+
+* https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/byggnadsamnesforbundet/
+
 ## Tjänstemannaavtalet Byggföretagen
 
 * https://byggforetagen.se/app/uploads/2023/06/Tjanstemannaavtalet-Byggforetagen-2023-2025.pdf
