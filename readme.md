@@ -238,8 +238,6 @@
 
 * https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/block/avtal2023/kollektivavtalen-2023-2025/motorbranschavtalet.pdf
 * https://www.ifmetall.se/om-oss/vara-kollektivavtal/
-* https://www.unionen.se/kollektivavtal/motorbranschens-arbetsgivareforbund
-* https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/transportforetagen/?&block=22176&mode=Index&resourcename=1.%20Kollektivavtal%20Motorbranschen%201%20maj%202023%20-%2030%20april%202025.pdf
 
 ## Musikavtalet
 
@@ -320,11 +318,20 @@
 * https://www.sjf.se/anstalld/anstallningstrygghet/anstallningsformer/tidskriftsavtalet
 * https://www.sjf.se/system/files/2023-06/kollektivavtal_tidskrifter_6565_2304_2023-2025_medieforetagen_sjf.pdf
 
+## Tjänstemannaavtalet för motorbranschen
+
+* https://www.unionen.se/kollektivavtal/motorbranschens-arbetsgivareforbund
+* https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/transportforetagen/?&block=22176&mode=Index&resourcename=1.%20Kollektivavtal%20Motorbranschen%201%20maj%202023%20-%2030%20april%202025.pdf
+
 ## Tjänstemän inom civilsamhället
 
 * https://www.naturvetarna.se/globalassets/_avtalsarkiv/privata-avtal/fremia/tjansteman-civilsamhalle/2023/fremia-tjansteman-inom-civilsamhallet-allmanna-anstallningsvillkor-loner-mm-230501-250430.pdf
 * https://www.naturvetarna.se/rad-och-stod/Kollektivavtal/avtal-privat-sektor/tjansteman-civilsamhalle-fremia/
 * https://www.unionen.se/kollektivavtal/fremia-kollektivavtal-tjansteman-inom-civilsamhallet
+
+## Tjänstemannaavtalet Byggföretagen
+
+* https://byggforetagen.se/app/uploads/2023/06/Tjanstemannaavtalet-Byggforetagen-2023-2025.pdf
 
 ## Tjänstemannaavtalet för grafisk industri
 
