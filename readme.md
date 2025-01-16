@@ -276,6 +276,10 @@
 * https://www.sjf.se/vara-kollektivavtal/public-service-avtal
 * https://www.sjf.se/system/files/2023-11/kollektivavtal-ps-journalistforbundet-6595-2304-medieforetagen-2023-2025.pdf
 
+## Skogsbruk tjänstemän
+
+* https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/grona-arbetsgivare/
+
 ## Skärgårdsavtalen
 
 * https://sjobefalsforeningen.se/avtal-lonebilagor/skargardsavtalen
