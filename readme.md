@@ -344,6 +344,10 @@
 * https://www.naturvetarna.se/rad-och-stod/Kollektivavtal/avtal-privat-sektor/tjansteman-civilsamhalle-fremia/
 * https://www.unionen.se/kollektivavtal/fremia-kollektivavtal-tjansteman-inom-civilsamhallet
 
+## Tjänstemän inom näringslivet
+
+* https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/fremia-tjansteman-inom-naringslivet-tin/
+
 ## Tjänstemän basindustrin
 
 * https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/byggnadsamnesforbundet/
