@@ -5,6 +5,11 @@
 * https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/apotek/
 * https://www.almega.se/2020/12/almega-tjansteforbunden-tecknar-nytt-avtal-for-apoteksforetagen/
 
+## Almega Medieföretagen Tjänstemannaavtal
+
+* https://www.unionen.se/kollektivavtal/almega-tjansteforetagen-tjanstemannaavtalet
+* https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/tjansteforetagen_och_medieforetagen/
+
 ## Almega Utbildning
 
 * https://www.sverigeslarare.se/siteassets/1.-rad-och-stod/kollektivavtal/almega/kollektivavtal-allmanna-anstallningsvillkor-utbildningsforetagen-2023-2025-si-unionen-.pdf
