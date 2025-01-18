@@ -396,6 +396,11 @@
 * https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/grafiska_foretagen/
 * https://www.unionen.se/kollektivavtal/grafiska-foretagens-forbund
 
+## Tjänstemannaavtal Träindustri
+
+* https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/tmf_tra_och_mobelforetagen/
+* https://www.unionen.se/kollektivavtal/tra-och-mobelforetagen-traindustrin
+
 ## Tjänstemannaavtal Utveckling & Tjänster
 
 * https://www.naturvetarna.se/rad-och-stod/Kollektivavtal/avtal-privat-sektor/Utveckling-och-Tjanster-Almega-Tjansteforbunden/
