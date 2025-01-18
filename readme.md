@@ -48,6 +48,10 @@
 * https://www.srat.se/rad-och-stod/kollektivavtal/vara-olika-avtal/anstalld-pa-foretagshalsovard/
 * https://www.naturvetarna.se/rad-och-stod/Kollektivavtal/avtal-privat-sektor/Vardforetagen-Bransch-D-Almega-Vardforetagarna/
 
+## Bransch E - Vård- och behandlingsverksamhet
+
+* https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/vardforetagen/
+
 ## Bussbranschavtalet
 
 * https://www.transportforetagen.se/for-dig-som-arbetsgivare/avtal-23/vara-avtal/bussbranschavtalet/
