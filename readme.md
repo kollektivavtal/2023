@@ -248,6 +248,11 @@
 * https://www.livsmedelsforetagen.se/medlem/kollektivavtal/
 * https://www.livs.se/globalassets/livs.se/arbetsplats--och-avtalsfragor/avtal-2020/material-avtal-2020/livsmedelsavtalet-2023.pdf
 
+## Manpoweravtalet
+
+* https://www.sef.se/arbetsgivare/kollektivavtal/elektrikernas-kollektivavtal/
+* https://www.sef.se/siteassets/medlem/kollektivavtal/vara-avtal/manpoweravtalet-2023-2025_webb.pdf
+
 ## Maskinföraravtalet
 
 * https://www.seko.se/avtal/sekos-avtalsomraden/vag-och-ban/aktuella-avtal/
