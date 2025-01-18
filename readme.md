@@ -328,6 +328,11 @@
 * https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/block/avtal2023/kollektivavtalen-2023-2025/teknikavtalet.pdf
 * https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/teknikarbetsgivarna-tag-teknikforetagen/
 
+## TeknikGrossisternas Arbetsgivareförening Tjänstemanna- och Arbetsledareavtal
+
+* https://www.unionen.se/kollektivavtal/teknikgrossisternas-arbetsgivareforening-tjanstemanna-och-arbetsledaravtal
+* https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/teknikgrossisterna/
+
 ## Teknikinstallationsavtalet
 
 * https://www.in.se/globalassets/dokument/arbetsgivarguiden/publik/kollektivavtal/teknikinstallationsavtalet-2023-2025.pdf
