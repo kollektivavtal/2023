@@ -308,6 +308,11 @@
 * https://www.livs.se/arbetsplats-och-avtalsfragor/kollektivavtal/kollektivavtalen-som-pdf-filer/
 * https://www.livs.se/globalassets/livs.se/arbetsplats--och-avtalsfragor/avtal-2020/material-avtal-2020/spisbrod_2023.pdf
 
+## Spårtrafikavtalet
+
+* https://www.seko.se/avtal/sekos-avtalsomraden/spartrafik/aktuella-avtal/
+* https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/spartrafik/
+
 ## Stoppmöbelindustriavtalet
 
 * https://www.gsfacket.se/om-oss/vad-gor-gs/kollektivavtal/
