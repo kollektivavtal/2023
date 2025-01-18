@@ -317,6 +317,12 @@
 * https://akademssr.se/rad-och-stod/kollektivavtal/kollektivavtal-i-privat-sektor-och-civilsamhallet/svenska-kyrkan
 * https://akademssr.se/sites/default/files/files/Svenska_kyrkans_avtal_2023%20AB-1_0.pdf
 
+## TechSverige Telekom
+
+* https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/techsverige_telekom/
+* https://techsverige.se/amne/telekom/
+* https://www.unionen.se/kollektivavtal/telekom-avtalet-inom-techsverige
+
 ## Teknikavtalet
 
 * https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/block/avtal2023/kollektivavtalen-2023-2025/teknikavtalet.pdf
