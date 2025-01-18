@@ -346,6 +346,15 @@
 * https://www.naturvetarna.se/rad-och-stod/Kollektivavtal/avtal-privat-sektor/tekniktjansteavtalet/
 * https://www.teknikforetagen.se/nyhetscenter/nyheter/2023/tekniktjansteavtalet-2023-2025-finns-for-nedladdning/
 
+## TEKO-avtalet
+
+* https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/block/avtal2023/kollektivavtalen-2023-2025/teko-avtalet.pdf
+
+## TEKO Tjänstemannaavtal
+
+* https://www.unionen.se/kollektivavtal/teko-sveriges-textil-modeforetag
+* https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/teko_industrierna/
+
 ## Tidskriftsavtalet
 
 * https://www.sjf.se/vara-kollektivavtal/tidskriftsavtal
