@@ -295,6 +295,11 @@
 * https://www.sjf.se/vara-kollektivavtal/public-service-avtal
 * https://www.sjf.se/system/files/2023-11/kollektivavtal-ps-journalistforbundet-6595-2304-medieforetagen-2023-2025.pdf
 
+## Radio & TV-avtalet
+
+* https://www.sef.se/arbetsgivare/kollektivavtal/elektrikernas-kollektivavtal/
+* https://www.sef.se/siteassets/medlem/kollektivavtal/vara-avtal/radio-tv--data-och-elektronikteknikeravtalet-2023-2025.pdf
+
 ## Skogsbruk tjänstemän
 
 * https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/grona-arbetsgivare/
