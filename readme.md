@@ -10,6 +10,11 @@
 * https://www.unionen.se/kollektivavtal/almega-tjansteforetagen-tjanstemannaavtalet
 * https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/tjansteforetagen_och_medieforetagen/
 
+## Almega Spel och Internationella Kasinon Tjänstemannaavtal
+
+* https://www.unionen.se/kollektivavtal/almega-tjansteforbunden-spel-och-internationella-kasinon
+* https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/spel-internationella-kasinon/
+
 ## Almega Utbildning
 
 * https://www.sverigeslarare.se/siteassets/1.-rad-och-stod/kollektivavtal/almega/kollektivavtal-allmanna-anstallningsvillkor-utbildningsforetagen-2023-2025-si-unionen-.pdf
