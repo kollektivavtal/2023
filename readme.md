@@ -367,6 +367,12 @@
 * https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/grafiska_foretagen/
 * https://www.unionen.se/kollektivavtal/grafiska-foretagens-forbund
 
+## Tjänstemannaavtal Utveckling & Tjänster
+
+* https://www.naturvetarna.se/rad-och-stod/Kollektivavtal/avtal-privat-sektor/Utveckling-och-Tjanster-Almega-Tjansteforbunden/
+* https://www.akavia.se/siteassets/03-rad-och-stod/kollektivavtal-privat-sektor/almega/almega-tjansteforbunen-tjanstemannaavtal-kollektivavtal-allmanna-anstallningsvillkor-utveckling-och-tjanster-20230401-20250331.pdf
+* https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/utveckling_tjanster/
+
 ## Tobaksavtalet
 
 * https://www.livs.se/arbetsplats-och-avtalsfragor/kollektivavtal/kollektivavtalen-som-pdf-filer/
