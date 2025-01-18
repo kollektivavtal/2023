@@ -417,6 +417,11 @@
 * https://www.akavia.se/siteassets/03-rad-och-stod/kollektivavtal-privat-sektor/almega/almega-tjansteforbunen-tjanstemannaavtal-kollektivavtal-allmanna-anstallningsvillkor-utveckling-och-tjanster-20230401-20250331.pdf
 * https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/utveckling_tjanster/
 
+## TKE-avtalet
+
+* https://www.sef.se/arbetsgivare/kollektivavtal/elektrikernas-kollektivavtal/
+* https://www.sef.se/siteassets/medlem/kollektivavtal/vara-avtal/tke-avtalet-2023-2025-webb.pdf
+
 ## Tobaksavtalet
 
 * https://www.livs.se/arbetsplats-och-avtalsfragor/kollektivavtal/kollektivavtalen-som-pdf-filer/
