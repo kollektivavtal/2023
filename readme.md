@@ -108,6 +108,8 @@
 * https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/energiforetagen/?&block=22147&mode=Index&resourcename=1.%20EFA%20Bransch%20avtal%20Energi%20-%20Avtal%202023%20-%202025.pdf
 * https://www.unionen.se/kollektivavtal/energiforetagens-arbetsgivareforening
 * https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/energiforetagen/
+* https://www.seko.se/avtal/sekos-avtalsomraden/energi/aktuella-avtal/
+* https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2023/energi/kollektivavtal_efa.pdf
 
 ## Entreprenadmaskinavtalet
 
