@@ -132,6 +132,11 @@
 * https://www.seko.se/avtal/sekos-avtalsomraden/sjo/aktuella-avtal/
 * https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2023/sjo/farjeavtalet_2023_webb.pdf
 
+## Fönsterputsavtalet
+
+* https://www.fastighets.se/Kollektivavtal/vara-kollektivavtal/almega-fonsterputsningsavtalet/
+* https://www.fastighets.se/siteassets/kollektivavtal/avtal-23-kollektivavtal/kollektivavtal-fonsterputs-fastighetsanstalldas-forbund-2023-2025-artnr-6537-2311-2.pdf
+
 ## Fastigo F-avtalet
 
 * https://fastigo.se/kollektivavtal/
