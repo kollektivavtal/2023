@@ -127,6 +127,11 @@
 * https://sjobefalsforeningen.se/sites/default/files/2023-05/avtalsmall-fartygsbefal.pdf
 * https://sjobefalsforeningen.se/sites/default/files/2023-05/avtalsmall-maskinbefal.pdf
 
+## Färjeavtalet
+
+* https://www.seko.se/avtal/sekos-avtalsomraden/sjo/aktuella-avtal/
+* https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2023/sjo/farjeavtalet_2023_webb.pdf
+
 ## Fastigo F-avtalet
 
 * https://fastigo.se/kollektivavtal/
@@ -337,8 +342,10 @@
 
 * https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/grona-arbetsgivare/
 
-## Skärgårdsavtalen
+## Skärgårdsavtalet
 
+* https://www.seko.se/avtal/sekos-avtalsomraden/sjo/aktuella-avtal/
+* https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2023/sjo/skargardstrafik-2023-2025_webb.pdf
 * https://sjobefalsforeningen.se/avtal-lonebilagor/skargardsavtalen
 * https://sjobefalsforeningen.se/sites/default/files/2023-05/kollektivavtal-stromma-uto-mfl-2023-2024-tjf-sbf.pdf
 * https://sjobefalsforeningen.se/sites/default/files/2023-04/lonebilaga-stromma.pdf
@@ -363,6 +370,8 @@
 
 ## Storsjöavtalet
 
+* https://www.seko.se/avtal/sekos-avtalsomraden/sjo/aktuella-avtal/
+* https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2023/sjo/storsjoavtalet_2023_webb.pdf
 * https://sjobefalsforeningen.se/avtal-lonebilagor/storsjoavtalet
 * https://sjobefalsforeningen.se/sites/default/files/2023-05/2023-avtal-befalhavare-.pdf
 * https://sjobefalsforeningen.se/sites/default/files/2023-05/2023-befalhavare-lon-och-ersattning.pdf
