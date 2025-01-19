@@ -306,10 +306,20 @@
 * https://www.byggnads.se/avtal/avtalsrorelsen-2023/ditt-avtal/plat--och-ventilationsavtalet/plat-och-ventilationsavtalet-i-korthet/
 * https://www.byggnads.se/siteassets/kollektivavtal/plat-och-ventilationsavtalet.pdf?ts=8dc797de59e5680#:~:text=Arbetstagarna%20skall%20ha%20minst%2036,utf%C3%B6ra%20arbetet%20n%C3%A4r%20behov%20uppkommer.
 
-## Postnords Villkorsavtal
+## Postnord
 
 * https://www.seko.se/branscher/post/seko-posten/kollektivavtal/postens-villkors-avtal/
 * https://www.seko.se/siteassets/forhandlings-branschorganisationer/seko-posten/pdf-er/avtal/branschavtal-2023-2025-med-postnordlokala-tillagg.pdf
+* https://www.seko.se/branscher/post/seko-posten/kollektivavtal/omstallningsavtal/
+* https://www.seko.se/siteassets/forhandlings-branschorganisationer/seko-posten/kollektivavtal-om-personalomstallning.pdf
+* https://www.seko.se/branscher/post/seko-posten/kollektivavtal/kollektivavtal-om-bemanning/
+* https://www.seko.se/siteassets/forhandlings-branschorganisationer/seko-posten/pdf-er/avtal/kollektivavtal-om-bemanning-inkl-protokoll-original-230701.pdf
+* https://www.seko.se/branscher/post/seko-posten/kollektivavtal/hantering-av-beroenderelaterad-ohalsa/
+* https://www.seko.se/siteassets/forhandlings-branschorganisationer/seko-posten/pdf-er/avtal/kollektivavtal-om-hantering-av-beroenderelaterad-ohalsa-undertecknat.pdf
+* https://www.seko.se/branscher/post/seko-posten/kollektivavtal/bilaga-samverkan/
+* https://www.seko.se/siteassets/forhandlings-branschorganisationer/seko-posten/pdf-er/avtal/bilaga-samverkan-2023.pdf
+* https://www.seko.se/branscher/post/seko-posten/kollektivavtal/kollektivavtal-last-mile-kvall-i-stadsmiljo/
+* https://www.seko.se/siteassets/forhandlings-branschorganisationer/seko-posten/pdf-er/avtal/kollektivavtal-last-mile-kvall-i-stadsmiljo-inkl-protokoll-original-230901.pdf
 
 ## Public service-avtalet
 
