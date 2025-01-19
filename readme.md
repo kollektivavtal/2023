@@ -338,6 +338,11 @@
 * https://www.sef.se/arbetsgivare/kollektivavtal/elektrikernas-kollektivavtal/
 * https://www.sef.se/siteassets/medlem/kollektivavtal/vara-avtal/radio-tv--data-och-elektronikteknikeravtalet-2023-2025.pdf
 
+## Serviceentreprenadavtalet
+
+* https://www.fastighets.se/Kollektivavtal/vara-kollektivavtal/almega-serviceentreprenad/
+* https://www.fastighets.se/siteassets/kollektivavtal/avtal-23-kollektivavtal/kollektivavtal-serviceentreprenad-fastighets-seko-2023-2025-artnr-6044-2308.pdf
+
 ## Skogsbruk tjänstemän
 
 * https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/grona-arbetsgivare/
