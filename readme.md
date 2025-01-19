@@ -1,5 +1,10 @@
 # Kollektivavtalsarkivet 2023
 
+## Affärsverksavtal-T
+
+* https://www.arbetsgivarverket.se/avtal-och-skrifter/avtal/affarsverksavtal-t-ava-t-mellan-arbetsgivarverket-och-saco-s
+* https://www.st.org/avtal-och-villkor/sts-centrala-avtal
+
 ## Almega Apoteksföretagen
 
 * https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/apotek/
