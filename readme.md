@@ -29,6 +29,11 @@
 * https://www.unionen.se/kollektivavtal/svensk-handel-apoteksanstallda
 * https://www.sverigesfarmaceuter.se/rad-och-stod/anstallning2/kollektivavtal/kollektivavtal-apotek/kollektivavtal-svensk-handel/
 
+## Banarbete vid travbanor
+
+* https://www.fastighets.se/Kollektivavtal/vara-kollektivavtal/hast--och-golfavtalen/
+* https://www.fastighets.se/siteassets/kollektivavtal/avtal-23-kollektivavtal/almega-tjansteforetagen-banarbetare-vid-travbanor-2023-2025.pdf
+
 ## Bankavtalet
 
 * https://www.finansforbundet.se/rad-stod/kollektivavtal/vart-kollektivavtal/
@@ -311,6 +316,11 @@
 
 * https://www.byggnads.se/medlem/kollektivavtal-for-malare-och-lackerare/
 * https://www.byggnads.se/siteassets/kollektivavtal/kollektivavtal-maleriyrket-2023-2025.pdf
+
+## Personal hos travtränare
+
+* https://www.fastighets.se/Kollektivavtal/vara-kollektivavtal/hast--och-golfavtalen/
+* https://www.fastighets.se/siteassets/kollektivavtal/avtal-23-kollektivavtal/almega-tjansteforetagen-personal-hos-travtranare-2023-2025.pdf
 
 ## Plåt- och Ventilationsavtalet
 
