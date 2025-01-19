@@ -353,6 +353,11 @@
 * https://sjobefalsforeningen.se/sites/default/files/2023-04/lonebilaga-styrso.pdf
 * https://sjobefalsforeningen.se/sites/default/files/2023-09/svenskt-naringsliv-ptk-2022-06-22-forhandlingsprotokoll-huvudavtal-trygghet-omstallning-anstallningsskydd.pdf
 
+## Specialservice
+
+* https://www.fastighets.se/Kollektivavtal/vara-kollektivavtal/almega-specialservice/
+* https://www.fastighets.se/siteassets/kollektivavtal/avtal-23-kollektivavtal/specialservice2023-2025.pdf
+
 ## Spisbrödsavtalet
 
 * https://www.livs.se/arbetsplats-och-avtalsfragor/kollektivavtal/kollektivavtalen-som-pdf-filer/
