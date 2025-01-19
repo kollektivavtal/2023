@@ -228,7 +228,6 @@
 ## Järnvägsinfrastrukturavtalet
 
 * https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/almega-tagforetagen-jarnvagsinfrastruktur
-* https://www.st.org/sa-forhandlar-fackforbundet-st-om-dina-villkor/avtalsrorelse-sa-arbetar-st-med-att-forbattra-12-3-0
 
 ## Kommunikation
 
