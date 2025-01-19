@@ -3,7 +3,6 @@
 ## Affärsverksavtal-T
 
 * https://www.arbetsgivarverket.se/avtal-och-skrifter/avtal/affarsverksavtal-t-ava-t-mellan-arbetsgivarverket-och-saco-s
-* https://www.st.org/avtal-och-villkor/sts-centrala-avtal
 
 ## Almega Apoteksföretagen
 
@@ -225,6 +224,14 @@
 
 * https://www.unionen.se/kollektivavtal/it-avtalet-inom-techsverige
 * https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/techsverige_it/
+
+## Kommunikation
+
+* https://www.seko.se/avtal/sekos-avtalsomraden/post/aktuella-avtal/
+* https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2023/kommunikation/branschavtal_kommunikation_2023-2025.pdf
+* https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/kommunikation/
+* https://www.st.org/avtal-och-villkor/sts-centrala-avtal
+* https://editorial.st.org/sites/default/files/2023-09/branschavtal-kommunikation-2023-2025.pdf
 
 ## Kraftverksavtalet
 
