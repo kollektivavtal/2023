@@ -353,6 +353,16 @@
 * https://www.sef.se/arbetsgivare/kollektivavtal/elektrikernas-kollektivavtal/
 * https://www.sef.se/siteassets/medlem/kollektivavtal/vara-avtal/radio-tv--data-och-elektronikteknikeravtalet-2023-2025.pdf
 
+## Ridhusföretag Almega
+
+* https://www.fastighets.se/Kollektivavtal/vara-kollektivavtal/hast--och-golfavtalen/
+* https://www.fastighets.se/siteassets/kollektivavtal/avtal-23-kollektivavtal/almega-tjansteforetagen-ridhusforetag-2023-2025.pdf
+
+## Ridhusföretag Fremia
+
+* https://www.fastighets.se/Kollektivavtal/vara-kollektivavtal/hast--och-golfavtalen/
+* https://www.fastighets.se/siteassets/kollektivavtal/avtal-23-kollektivavtal/fremia-ridhusforetag-2023-2025.pdf
+
 ## Serviceentreprenadavtalet
 
 * https://www.fastighets.se/Kollektivavtal/vara-kollektivavtal/almega-serviceentreprenad/
