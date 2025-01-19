@@ -379,6 +379,11 @@
 * https://sjobefalsforeningen.se/sites/default/files/2023-05/avtal-maskinbefal-2023.pdf
 * https://sjobefalsforeningen.se/sites/default/files/2023-05/2023-avtal-intendenturbefal.pdf
 
+## Städningsarbete i egen regi
+
+* https://www.fastighets.se/Kollektivavtal/vara-kollektivavtal/
+* https://www.fastighets.se/siteassets/kollektivavtal/avtal-23-kollektivavtal/ka-6004-2311-stad-i-egen-regi-pdf-med-omslag.pdf
+
 ## Svenska Kyrkans Avtal
 
 * https://akademssr.se/rad-och-stod/kollektivavtal/kollektivavtal-i-privat-sektor-och-civilsamhallet/svenska-kyrkan
