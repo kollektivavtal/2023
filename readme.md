@@ -526,6 +526,10 @@
 * https://www.livs.se/arbetsplats-och-avtalsfragor/kollektivavtal/kollektivavtalen-som-pdf-filer
 * https://www.livs.se/globalassets/livs.se/arbetsplats--och-avtalsfragor/avtal-2020/material-avtal-2020/tunnbrod__2023.pdf
 
+## Vatten- och miljöavtalet
+
+* https://sobona.se/download/18.3f9de84b18851b77a78a441f/1686502605851/Avtal%20Vatten%20och%20milj%202023%20(i%20lydelse%202023-04-01).pdf
+
 ## Vin- och Spritindustriavtalet
 
 * https://www.livsmedelsforetagen.se/medlem/kollektivavtal/
