@@ -14,6 +14,11 @@
 * https://www.unionen.se/kollektivavtal/almega-tjansteforetagen-tjanstemannaavtalet
 * https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/tjansteforetagen_och_medieforetagen/
 
+## Almega Spel
+
+- https://www.hrf.net/kollektivavtal/
+- https://www.hrf.net/app/uploads/2024/03/Almega-Spel-2023-2025.pdf
+
 ## Almega Spel och Internationella Kasinon Tjänstemannaavtal
 
 * https://www.unionen.se/kollektivavtal/almega-tjansteforbunden-spel-och-internationella-kasinon
@@ -100,7 +105,7 @@
 * https://www.seko.se/avtal/sekos-avtalsomraden/ovriga-avtal/kanalbolagen/aktuella-avtal/
 * https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2023/kanalbolagen/snabbinfo-nya-loner-dalslands-kanal-2023-2025.pdf
 
-## Djurvård
+## Djursjukvård
 
 * https://www.seko.se/avtal/sekos-avtalsomraden/djurvard/
 * https://www.seko.se/siteassets/pdf-seko.se/branscher/djurvard/djursjukvard-2023-2025.pdf
