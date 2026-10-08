@@ -429,6 +429,12 @@
 * https://akademssr.se/rad-och-stod/kollektivavtal/kollektivavtal-i-privat-sektor-och-civilsamhallet/svenska-kyrkan
 * https://akademssr.se/sites/default/files/files/Svenska_kyrkans_avtal_2023%20AB-1_0.pdf
 
+## Systembolagsanställda
+
+* https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/svensk-handel-systembolaget/
+* https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/svensk-handel-systembolaget/?&block=63504&mode=Index&resourcename=3.%20Kollektivavtal%20(allm%C3%A4nna%20anst%C3%A4llningsvillkor)%20tj%C3%A4nstem%C3%A4n%20Systembolaget%201%20maj%202023-%2030%20april%202025%20(uppdaterad%20februari%202024).pdf
+* https://www.unionen.se/kollektivavtal/svensk-handel-systembolagsanstallda
+
 ## TechSverige Telekom
 
 * https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/techsverige_telekom/
