@@ -20,7 +20,7 @@ jobs:
           fetch-depth: 0
           lfs: true
 
-      - uses: kollektivavtal/autoindex@v81
+      - uses: kollektivavtal/autoindex@v82
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           year: ${{ github.event.repository.name }}
